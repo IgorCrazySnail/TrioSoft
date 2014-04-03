@@ -1,4 +1,3 @@
-.modgit/
 media/customer/
 media/dhl/
 media/downloadable/
@@ -6,5 +5,6 @@ media/.htaccess
 media/import/
 media/xmlconnect/
 media/catalog/product/cache/
+cache
 .htaccess
 .htaccess.sample
